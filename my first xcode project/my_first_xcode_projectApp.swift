@@ -12,6 +12,7 @@ struct my_first_xcode_projectApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            Second_SwiftUIView()
         }
     }
 }
